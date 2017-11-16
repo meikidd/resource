@@ -7,3 +7,15 @@
 - [从零开始编写 TODO-IMVC 应用](http://lucifier129.github.io/webppt/04.html#/) by @工业聚
 - [高可用 React 服务端渲染](http://slides.com/dfguo/react-ssr#/) by @郭达峰
 - [Modal in React and Redux](http://slides.com/zation/modal-in-react-and-redux#/) by @刘旸
+
+## Interview
+
+- [魔法哥 2013 笔试题曝光（附完整解答）](https://github.com/cssmagic/blog/issues/69)
+
+## Functional Programming
+
+### Haskell
+
+- [Try Haskell](http://tryhaskell.org/)
+- [Haskell 入门五步走](https://wiki.haskell.org/Cn/Haskell_%E5%85%A5%E9%97%A8%E4%BA%94%E6%AD%A5%E8%B5%B0)
+- [Awesome Haskell Packages](https://haskell.libhunt.com/)
