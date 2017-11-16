@@ -19,3 +19,5 @@
 - [Try Haskell](http://tryhaskell.org/)
 - [Haskell 入门五步走](https://wiki.haskell.org/Cn/Haskell_%E5%85%A5%E9%97%A8%E4%BA%94%E6%AD%A5%E8%B5%B0)
 - [Awesome Haskell Packages](https://haskell.libhunt.com/)
+- [How to learn Haskell](https://github.com/bitemyapp/learnhaskell)
+- [Haskell 趣学指南](http://fleurer-lee.com/lyah/)
