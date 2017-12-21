@@ -7,6 +7,7 @@
 - [从零开始编写 TODO-IMVC 应用](http://lucifier129.github.io/webppt/04.html#/) by @工业聚
 - [高可用 React 服务端渲染](http://slides.com/dfguo/react-ssr#/) by @郭达峰
 - [Modal in React and Redux](http://slides.com/zation/modal-in-react-and-redux#/) by @刘旸
+- [2017 D2: 把前端监控做到极致](https://tianchi.aliyun.com/competition/videoStream.html#postsId=3631)
 
 ## Interview
 
