@@ -8,6 +8,8 @@
 - [高可用 React 服务端渲染](http://slides.com/dfguo/react-ssr#/) by @郭达峰
 - [Modal in React and Redux](http://slides.com/zation/modal-in-react-and-redux#/) by @刘旸
 - [2017 D2: 把前端监控做到极致](https://tianchi.aliyun.com/competition/videoStream.html#postsId=3631)
+- [圆桌时间 - 蚂蚁金服体验科技的发展及未来](http://v.youku.com/v_show/id_XMzMwNTg0NjA2OA==.html)
+
 
 ## Interview
 
