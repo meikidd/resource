@@ -9,6 +9,10 @@
 - [Modal in React and Redux](http://slides.com/zation/modal-in-react-and-redux#/) by @刘旸
 - [2017 D2: 把前端监控做到极致](https://tianchi.aliyun.com/competition/videoStream.html#postsId=3631)
 - [圆桌时间 - 蚂蚁金服体验科技的发展及未来](http://v.youku.com/v_show/id_XMzMwNTg0NjA2OA==.html)
+- [Babel 的深层次应用](https://github.com/meikidd/resource/blob/master/slides/Babel%E7%9A%84%E6%B7%B1%E5%B1%82%E6%AC%A1%E5%BA%94%E7%94%A8.ppt)
+- [Node.js cluster 踩坑指南](https://github.com/meikidd/resource/blob/master/slides/Node.js%20cluster%20%E8%B8%A9%E5%9D%91%E6%8C%87%E5%8D%97.key)
+- [Node.js 测试驱动的魅力](https://github.com/meikidd/resource/blob/master/slides/nodejs%E6%B5%8B%E8%AF%95%E9%A9%B1%E5%8A%A8%E7%9A%84%E9%AD%85%E5%8A%9B.ppt)
+- [探究 Node.js 服务端之路](https://github.com/meikidd/resource/blob/master/slides/%E6%8E%A2%E7%A9%B6%20Node.js%20%E6%9C%8D%E5%8A%A1%E7%AB%AF%E4%B9%8B%E8%B7%AF.key)
 
 
 ## Interview
