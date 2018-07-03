@@ -3,6 +3,7 @@
 ## Slides 
 > 为了避免一些资源链接年久失效，尽量把 ppt 下载保存到自己的仓库
 
+- 支付宝无线效率工具建设 by @加里 [视频](https://tianchi.aliyun.com/forum/videoStream.html#postsId=3619)
 - Ant Design 背后的故事 by @它山 [ppt](https://github.com/meikidd/resource/raw/master/slides/Ant%20Design%203.0%20背后的故事-它山.pdf) [视频](http://v.youku.com/v_show/id_XMzMwMTI4NjIyNA==.html?spm=a2hzp.8253869.0.0)
 - TWA的理念与实践 by @不四 [ppt](https://github.com/meikidd/resource/raw/master/slides/Techless%20Web%20App%20的理念与实践-不四.pdf) [视频](http://v.youku.com/v_show/id_XMzMwMzc2NDg0OA==.html?spm=a2hzp.8244740.0.0)
 - 惊艳的互联网互动体验 by @好修 & @景夫 [ppt](https://github.com/meikidd/resource/raw/master/slides/惊艳的互联⽹互动体验-好修%26景夫.pdf) [视频](http://v.youku.com/v_show/id_XMzMwNDM3NjQwOA==.html?spm=a2hzp.8244740.0.0)
